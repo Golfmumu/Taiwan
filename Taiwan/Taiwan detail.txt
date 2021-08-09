@@ -1,0 +1,64 @@
+Taiwan
+
+----color----
+--dark-blue: #01016f;
+--grey-blue: #9fcbee;
+--light-blue: #6497bf;
+--nomal-gray: #5a5a5a;
+
+icon build
+<i class="bi bi-building"></i>
+
+bootstrap CDN
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+
+place 1
+Lungshan Temple
+211 Guangzhou Street, Wanhua, Taipei City | MRT Lungshan Temple (BL10) Exit1
+
+
+Chiang Kai-Shek Memorial Hall
+21Zhongshan South Rd., Zhongzheng, Taipei City, MRT Chiang Kai-Shek Memorial Hall (G10/R08) Exit5
+
+Sisi Nan Cun
+50 Songqin Street, Xinyi, Taipei City, MRT Taipei 101/World Trade Center(R03) Exit2
+
+Taipei 101
+7 Sec 5, Xinyi Road, Xinyi, Taipei City, MRT Taipei 101/World trade Center(R03) Exit4
+
+Ximending 
+MRT Ximen
+
+Shilin Night Market
+Jihe Road and Dadong Road, Shilin, Taipei, MRT Jiantan (R15) Exit 1
+
+TRA Pingxi
+Jing'an Road, Pingxi, New Taipei City
+
+TRA Houtong
+Chailiao Road, Ruifang, New Taipei City
+
+Jiufen Old Street
+Jisen Street, Ruifang, New Taipei City, MRT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
